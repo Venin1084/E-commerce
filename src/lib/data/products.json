@@ -1,0 +1,74 @@
+[
+  {
+    "id": "sedia-nordica",
+    "name": "Sedia Nordica",
+    "price": 79.90,
+    "currency": "EUR",
+    "short": "Sedia in legno di faggio con seduta ergonomica.",
+    "description": "Sedia dal design scandinavo realizzata in legno di faggio certificato FSC®. Ideale per sala da pranzo o studio. Leggera ma robusta, disponibile in più finiture.",
+    "materials": ["Legno di faggio", "Vernice all’acqua"],
+    "dimensions": "45×85×45 cm",
+    "image": "/images/sedia-nordica.jpg",
+    "stock": 30
+  },
+  {
+    "id": "lampada-luna",
+    "name": "Lampada da Tavolo Luna",
+    "price": 59.00,
+    "currency": "EUR",
+    "short": "Lampada in vetro opalino con luce calda dimmerabile.",
+    "description": "Illumina gli spazi con una luce morbida e accogliente. Base in legno chiaro e cupola in vetro satinato. Perfetta per camera o soggiorno.",
+    "materials": ["Vetro satinato", "Legno di betulla"],
+    "dimensions": "20×25 cm",
+    "image": "/images/lampada-luna.jpg",
+    "stock": 50
+  },
+  {
+    "id": "tavolo-riva",
+    "name": "Tavolo Riva 4 posti",
+    "price": 249.00,
+    "currency": "EUR",
+    "short": "Tavolo compatto in rovere chiaro, ideale per piccoli spazi.",
+    "description": "Design pulito e contemporaneo. Struttura in legno massello con finitura naturale. Perfetto per cucina o sala da pranzo.",
+    "materials": ["Rovere massello"],
+    "dimensions": "120×75×70 cm",
+    "image": "/images/tavolo-riva.jpg",
+    "stock": 15
+  },
+  {
+    "id": "coperta-mora",
+    "name": "Coperta Mora",
+    "price": 39.90,
+    "currency": "EUR",
+    "short": "Coperta in cotone biologico con trama intrecciata.",
+    "description": "Morbida coperta in puro cotone 100% biologico. Ideale per divano o camera da letto. Disponibile in tre colori naturali.",
+    "materials": ["Cotone biologico"],
+    "dimensions": "130×170 cm",
+    "image": "/images/coperta-mora.jpg",
+    "stock": 60
+  },
+  {
+    "id": "set-tazze-aria",
+    "name": "Set 2 Tazze Aria",
+    "price": 19.90,
+    "currency": "EUR",
+    "short": "Set di due tazze in ceramica smaltata a mano.",
+    "description": "Tazze in ceramica dallo stile artigianale, smaltate con finitura lucida. Ogni pezzo è unico. Lavabili in lavastoviglie.",
+    "materials": ["Ceramica smaltata"],
+    "dimensions": "Ø8×9 cm",
+    "image": "/images/set-tazze-aria.jpg",
+    "stock": 80
+  },
+  {
+    "id": "specchio-foglia",
+    "name": "Specchio Foglia",
+    "price": 89.00,
+    "currency": "EUR",
+    "short": "Specchio decorativo con cornice in bambù intrecciato.",
+    "description": "Un elemento naturale per ogni ambiente. Cornice realizzata a mano in bambù. Può essere appeso o appoggiato alla parete.",
+    "materials": ["Bambù naturale", "Vetro specchiato"],
+    "dimensions": "Ø60 cm",
+    "image": "/images/specchio-foglia.jpg",
+    "stock": 20
+  }
+]
